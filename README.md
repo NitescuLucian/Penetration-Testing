@@ -7,7 +7,8 @@ A collection of awesome penetration testing resources
   - [Penetration Testing Resources](#penetration-testing-resources)
   - [Exploit development](#exploit-development)
   - [Social Engineering Resources](#social-engineering-resources)
-  - [Lock Picking Resources](#lock-picking-resources)
+
+- [Lock Picking Resources](#lock-picking-resources)
 - [Tools](#tools)
   - [Penetration Testing Distributions](#penetration-testing-distributions)
   - [Basic Penetration Testing Tools](#basic-penetration-testing-tools)
@@ -17,7 +18,8 @@ A collection of awesome penetration testing resources
   - [Wireless Network Tools](#wireless-network-tools)
   - [SSL Analysis Tools](#ssl-analysis-tools)
   - [Web exploitation](#web-exploitation)
-  - [Hex Editors](#hex-editors)
+
+- [Hex Editors](#hex-editors)
   - [Crackers](#crackers)
   - [Windows Utils](#windows-utils)
   - [Linux Utils](#linux-utils)
@@ -27,6 +29,7 @@ A collection of awesome penetration testing resources
   - [Anonymity Tools](#anonymity-tools)
   - [Reverse Engineering Tools](#reverse-engineering-tools)
   - [CTF Tools](#ctf-tools)
+
 - [Books](#books)
   - [Penetration Testing Books](#penetration-testing-books)
   - [Hackers Handbook Series](#hackers-handbook-series)
@@ -37,6 +40,7 @@ A collection of awesome penetration testing resources
   - [Windows Books](#windows-books)
   - [Social Engineering Books](#social-engineering-books)
   - [Lock Picking Books](#lock-picking-books)
+
 - [Vulnerability Databases](#vulnerability-databases)
 - [Security Courses](#security-courses)
 - [Information Security Conferences](#information-security-conferences)
@@ -47,6 +51,7 @@ A collection of awesome penetration testing resources
 #### Penetration Testing Resources
 * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) - Free Offensive Security Metasploit course
 * [PTES](http://www.pentest-standard.org/) - Penetration Testing Execution Standard
+
 * [OWASP](https://www.owasp.org/index.php/Main_Page) - Open Web Application Security Project
 * [PENTEST-WIKI](https://github.com/nixawk/pentest-wiki) - A free online security knowledge library for pentesters / researchers.
 * [Vulnerability Assessment Framework](http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html) - Penetration Testing Framework.
@@ -57,6 +62,7 @@ A collection of awesome penetration testing resources
 * [Shellcode Examples](http://shell-storm.org/shellcode/) - Shellcodes database
 * [Exploit Writing Tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) - Tutorials on how to develop exploits
 * [shellsploit](https://github.com/b3mb4m/shellsploit-framework) - New Generation Exploit Development Kit
+
 * [Voltron](https://github.com/snare/voltron) - A hacky debugger UI for hackers
 
 #### Social Engineering Resources
@@ -67,6 +73,7 @@ A collection of awesome penetration testing resources
 * [/r/lockpicking](https://www.reddit.com/r/lockpicking) - Resources for learning lockpicking, equipment recommendations.
 
 ### Tools
+
 #### Penetration Testing Distributions
 * [Kali](https://www.kali.org/) - A Linux distribution designed for digital forensics and penetration testing
 * [ArchStrike](https://archstrike.org/) - An Arch Linux repository for security professionals and enthusiasts
@@ -76,6 +83,7 @@ A collection of awesome penetration testing resources
 * [BackBox](https://backbox.org/) - Ubuntu-based distribution for penetration tests and security assessments
 * [Parrot](https://www.parrotsec.org/) - A distribution similar to Kali, with multiple architecture
 * [Fedora Security Lab](https://labs.fedoraproject.org/en/security/) - Provides a safe test environment to work on security auditing, forensics, system rescue and teaching security testing methodologies.
+
 
 #### Basic Penetration Testing Tools
 * [Metasploit Framework](https://www.metasploit.com/) - World's most used penetration testing software
@@ -88,6 +96,7 @@ A collection of awesome penetration testing resources
 * [routersploit](https://github.com/reverse-shell/routersploit) - Automated penetration testing software for router
 * [redsnarf] (https://github.com/nccgroup/redsnarf) - Post-exploitation tool for grabbing credentials
 
+
 #### Docker for Penetration Testing
 * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
 * `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy)
@@ -97,6 +106,7 @@ A collection of awesome penetration testing resources
 * `docker pull wpscanteam/vulnerablewordpress` - [Vulnerable WordPress Installation](https://hub.docker.com/r/wpscanteam/vulnerablewordpress/)
 * `docker pull hmlio/vaas-cve-2014-6271` - [Vulnerability as a service: Shellshock](https://hub.docker.com/r/hmlio/vaas-cve-2014-6271/)
 * `docker pull hmlio/vaas-cve-2014-0160` - [Vulnerability as a service: Heartbleed](https://hub.docker.com/r/hmlio/vaas-cve-2014-0160/)
+
 * `docker pull opendns/security-ninjas` - [Security Ninjas](https://hub.docker.com/r/opendns/security-ninjas/)
 * `docker pull diogomonica/docker-bench-security` - [Docker Bench for Security](https://hub.docker.com/r/diogomonica/docker-bench-security/)
 * `docker pull ismisepaul/securityshepherd` - [OWASP Security Shepherd](https://hub.docker.com/r/ismisepaul/securityshepherd/)
@@ -156,6 +166,8 @@ A collection of awesome penetration testing resources
 * [Reaver](https://code.google.com/archive/p/reaver-wps) - Brute force attack against Wifi Protected Setup
 * [Wifite](https://github.com/derv82/wifite) - Automated wireless attack tool
 * [wifiphisher](https://github.com/sophron/wifiphisher) - Automated phishing attacks against Wi-Fi networks
+* [NightHawk](http://nighthawk.software.informer.com/) - Nighthawk is an experimental implementation of ARP/ND spoofing, password sniffing and simple SSL stripping for Windows
+* [BetterCAP](https://www.bettercap.org/) - BetterCap is the state of the art, modular, portable and easily extensible MITM framework.
 
 #### SSL Analysis Tools
 * [SSLyze](https://github.com/nabla-c0d3/sslyze) - SSL configuration scanner
